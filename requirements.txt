@@ -70,12 +70,6 @@ jupyterlab-pygments==0.2.2
 jupyterlab-widgets==3.0.5
 keras==2.8.0
 Keras-Preprocessing==1.1.2
-Kivy==2.1.0
-kivy-deps.angle==0.3.3
-kivy-deps.glew==0.3.1
-kivy-deps.sdl2==0.4.5
-Kivy-Garden==0.1.5
-kiwisolver==1.4.4
 labelme==5.2.0
 lazy_loader==0.2
 libclang==15.0.6.1
